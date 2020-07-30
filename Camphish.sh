@@ -1,8 +1,3 @@
-bin/bash
-# CamPhish v1.0
-# Powered by Tech Ustad
-# Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
-
 trap 'printf "\n";stop' 2
 
 banner() {
